@@ -1,0 +1,46 @@
+* {
+  text-align: center;
+}
+nav {
+    background-color: cadetblue;
+    height: 60px;
+}
+a {
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.a-footer {
+    color: antiquewhite; 
+}
+footer {
+    background-color: cadetblue;
+}
+.ul-nav{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+}
+.ul-footer{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+}
+.li-homePage {
+    background-color: bisque;
+}
+.li-products {
+    background-color: bisque;
+}
+img {
+    height: 100px;
+    width: 100px;
+}
+p {
+    font-size: 25px;
+}
